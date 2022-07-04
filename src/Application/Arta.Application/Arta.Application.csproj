@@ -5,10 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Framework\Anshan.Framework.Application\Anshan.Framework.Application.csproj" />
-    <ProjectReference Include="..\..\..\Framework\Anshan.Framework.Security\Anshan.Framework.Security.csproj" />
+    <ProjectReference Include="..\..\..\Framework\Arta.Framework.Application\Arta.Framework.Application.csproj" />
+    <ProjectReference Include="..\..\..\Framework\Arta.Framework.Security\Arta.Framework.Security.csproj" />
     <ProjectReference Include="..\..\..\Framework\Framework.Exceptions\Framework.Exceptions.csproj" />
-    <ProjectReference Include="..\..\..\Framework\Framework.FileUtility\Framework.FileUtility.csproj" />
     <ProjectReference Include="..\..\..\Framework\Framework.Resources\Framework.Resources.csproj" />
     <ProjectReference Include="..\..\Domain\Arta.Domain\Arta.Domain.csproj" />
     <ProjectReference Include="..\..\Infrastructure\Arta.Query\Arta.Query.csproj" />

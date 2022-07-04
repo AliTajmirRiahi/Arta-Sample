@@ -19,8 +19,8 @@
 	
 	
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Framework\Anshan.Framework.Core\Anshan.Framework.Core.csproj" />
-    <ProjectReference Include="..\..\..\Framework\Anshan.Framework.DI\Anshan.Framework.DI.csproj" />
+    <ProjectReference Include="..\..\..\Framework\Arta.Framework.Core\Arta.Framework.Core.csproj" />
+    <ProjectReference Include="..\..\..\Framework\Arta.Framework.DI\Arta.Framework.DI.csproj" />
     <ProjectReference Include="..\..\Application\Arta.Application\Arta.Application.csproj" />
     <ProjectReference Include="..\Arta.Persistence.EF\Arta.Persistence.EF.csproj" />
     <ProjectReference Include="..\Arta.Query\Arta.Query.csproj" />

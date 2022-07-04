@@ -1,4 +1,4 @@
-﻿using Anshan.Framework.Application.Command;
+﻿using Arta.Framework.Application.Command;
 using Arta.Application.Contracts.ConsumerCommand;
 using Arta.Query.CunsumerQueries;
 using Microsoft.AspNetCore.Mvc;

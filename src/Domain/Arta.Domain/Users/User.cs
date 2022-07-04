@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
-using Anshan.Framework.Domain;
+using Arta.Framework.Domain;
 using Arta.Domain.Consumers;
 
 namespace Domain.Models.Users

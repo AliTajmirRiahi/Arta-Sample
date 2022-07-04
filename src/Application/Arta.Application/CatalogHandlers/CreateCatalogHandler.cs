@@ -1,4 +1,4 @@
-using Anshan.Framework.Application.Command;
+using Arta.Framework.Application.Command;
 using FluentValidation;
 using Framework.Resources;
 using System;

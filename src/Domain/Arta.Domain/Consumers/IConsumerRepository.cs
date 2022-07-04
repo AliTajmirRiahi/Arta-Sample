@@ -1,4 +1,4 @@
-﻿using Anshan.Framework.Application;
+﻿using Arta.Framework.Application;
 using Arta.Domain.Consumers;
 using System;
 using System.Collections.Generic;

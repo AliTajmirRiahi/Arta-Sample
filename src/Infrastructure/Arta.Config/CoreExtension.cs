@@ -1,4 +1,4 @@
-﻿using Anshan.Framework.DI;
+﻿using Arta.Framework.DI;
 using Arta.Application.ConsumerHandlers;
 using Arta.Persistence.EF.Repositories;
 using Arta.Query.CunsumerQueries;

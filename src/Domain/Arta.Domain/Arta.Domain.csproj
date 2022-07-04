@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -9,8 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Framework\Anshan.Framework.Application\Anshan.Framework.Application.csproj" />
-    <ProjectReference Include="..\..\..\Framework\Anshan.Framework.Domain\Anshan.Framework.Domain.csproj" />
+    <ProjectReference Include="..\..\..\Framework\Arta.Framework.Application\Arta.Framework.Application.csproj" />
+    <ProjectReference Include="..\..\..\Framework\Arta.Framework.Domain\Arta.Framework.Domain.csproj" />
   </ItemGroup>
 
 </Project>

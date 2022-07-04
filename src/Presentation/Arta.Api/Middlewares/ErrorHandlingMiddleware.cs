@@ -1,7 +1,7 @@
 using System;
 using System.Net;
 using System.Threading.Tasks;
-using Anshan.Framework.Domain.Exceptions;
+using Arta.Framework.Domain.Exceptions;
 using Framework.Exceptions;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;

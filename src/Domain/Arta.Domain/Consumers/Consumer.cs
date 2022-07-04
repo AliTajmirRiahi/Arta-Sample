@@ -1,4 +1,4 @@
-﻿using Anshan.Framework.Domain;
+﻿using Arta.Framework.Domain;
 using Arta.Domain.Catalogs;
 using Domain.Models.Users;
 using System;

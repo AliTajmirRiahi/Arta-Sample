@@ -1,5 +1,5 @@
-using Anshan.Framework.Core;
-using Anshan.Framework.EF;
+using Arta.Framework.Core;
+using Arta.Framework.EF;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
