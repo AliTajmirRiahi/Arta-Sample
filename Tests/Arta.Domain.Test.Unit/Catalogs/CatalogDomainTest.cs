@@ -13,7 +13,7 @@ namespace Arta.Domain.Test.Unit.Catalogs
     public class CatalogDomainTest
     {
         [Fact]
-        public void Set_Catalog_consumer_should_should_be_success()
+        public void Set_Catalog_consumer_should_be_success()
         {
             var Consumer = GetNewConsumer();
             var Catalog = GetCatalog();
